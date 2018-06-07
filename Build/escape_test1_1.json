@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Escape_test1",
+"dataUrl": "escape_test1_1.data.unityweb",
+"asmCodeUrl": "escape_test1_1.asm.code.unityweb",
+"asmMemoryUrl": "escape_test1_1.asm.memory.unityweb",
+"asmFrameworkUrl": "escape_test1_1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
